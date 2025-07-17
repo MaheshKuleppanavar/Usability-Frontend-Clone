@@ -6,9 +6,8 @@ This is a **responsive landing page** inspired by UsabilityHub, built using **HT
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://your-live-link-here.com)
+👉 [View Live Project](https://usability-frontend-colne.netlify.app/)
 
-> Replace with your actual URL after deployment.
 
 ---
 
@@ -36,13 +35,8 @@ The layout adjusts for:
 - **CSS3** – Styling and layout  
   - Flexbox  
   - CSS Grid  
-  - Media Queries  
-
----
-
-## 📸 Preview
-
-> Add screenshots or link to hosted walkthrough video
+  - Media Queries
+    
 
 ---
 
